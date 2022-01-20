@@ -1,0 +1,564 @@
+------------------------------------------------------------------------
+r140 | shray | 2021-09-16 00:34:50 +0530 (Thu, 16 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/utl/header/thread.h
+   M /lab3/utl/src/thread.c
+
+Lab3 : Updated header files 
+------------------------------------------------------------------------
+r139 | shray | 2021-09-16 00:31:47 +0530 (Thu, 16 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/Makefile
+   M /lab3/tests/include/thread.h
+   M /lab3/tests/src/test3.c
+   A /lab3/tests/src/test4.c
+
+Lab3 : Added test 4  and updated code and makefile 
+------------------------------------------------------------------------
+r138 | shray | 2021-09-16 00:18:45 +0530 (Thu, 16 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/src/test3.c
+
+Lab3 : Updated test3 
+------------------------------------------------------------------------
+r137 | shray | 2021-09-16 00:17:56 +0530 (Thu, 16 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/src/test3.c
+
+Lab3 : Updated test3 
+------------------------------------------------------------------------
+r136 | shray | 2021-09-15 23:05:08 +0530 (Wed, 15 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/Makefile
+   A /lab3/tests/src/test3.c
+
+Lab3 : Added third test and updated makefile 
+------------------------------------------------------------------------
+r135 | shray | 2021-09-15 22:54:31 +0530 (Wed, 15 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/Makefile
+   A /lab3/tests/src/test2.c
+
+Lab3 : Added test2 and updated makefile 
+------------------------------------------------------------------------
+r134 | shray | 2021-09-15 22:41:10 +0530 (Wed, 15 Sep 2021) | 1 line
+Changed paths:
+   A /lab3/tests/src/test1.c
+
+Lab3 : Added test1 
+------------------------------------------------------------------------
+r132 | shray | 2021-09-14 14:45:41 +0530 (Tue, 14 Sep 2021) | 1 line
+Changed paths:
+   A /lab3/docs/svn.log
+
+Lab3 : Added svn log 
+------------------------------------------------------------------------
+r131 | shray | 2021-09-14 14:43:02 +0530 (Tue, 14 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/utl/src/thread.c
+
+Lab3 : Added atomic operation in locking mechanism 
+------------------------------------------------------------------------
+r130 | shray | 2021-09-14 14:14:17 +0530 (Tue, 14 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/utl/src/thread.c
+
+Lab3 : Updated thread.c 
+------------------------------------------------------------------------
+r129 | shray | 2021-09-14 14:13:29 +0530 (Tue, 14 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/ReadMe
+
+Lab3 : Updated ReadMe
+------------------------------------------------------------------------
+r128 | shray | 2021-09-14 14:13:11 +0530 (Tue, 14 Sep 2021) | 1 line
+Changed paths:
+   A /lab3/docs
+   A /lab3/docs/Lab3-Report.pdf
+   A /lab3/docs/env.txt
+
+Lab3 : Added docs and report 
+------------------------------------------------------------------------
+r127 | shray | 2021-09-14 10:31:31 +0530 (Tue, 14 Sep 2021) | 1 line
+Changed paths:
+   D /lab3/tests/lib
+   D /lab3/tests/src/libTest1.c
+   D /lab3/tests/src/mmtest.c
+
+Lab3 : Removed unneccessary tests
+------------------------------------------------------------------------
+r126 | shray | 2021-09-13 17:20:03 +0530 (Mon, 13 Sep 2021) | 1 line
+Changed paths:
+   A /lab3/ReadMe
+   M /lab3/utl/src/thread.c
+
+Lab3 : Added readme and update code 
+------------------------------------------------------------------------
+r125 | shray | 2021-09-13 16:56:01 +0530 (Mon, 13 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/Makefile
+
+Lab3 : Updated Makefile 
+------------------------------------------------------------------------
+r124 | shray | 2021-09-13 16:53:15 +0530 (Mon, 13 Sep 2021) | 1 line
+Changed paths:
+   D /lab3/debug
+   D /lab3/queue
+
+Lab3 : Removed debugging and queue testing files and folders 
+------------------------------------------------------------------------
+r123 | shray | 2021-09-13 16:50:46 +0530 (Mon, 13 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/Makefile
+   A /lab3/tests/data/mythreads.data
+   A /lab3/tests/data/pthreads.data
+   D /lab3/tests/data/threads.data
+   A /lab3/tests/scripts
+   A /lab3/tests/scripts/time.plot
+
+Lab3 : Added results ,data and changes to makefile
+------------------------------------------------------------------------
+r122 | shray | 2021-09-13 15:57:20 +0530 (Mon, 13 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/src/mm.c
+
+Lab3 : Updating test code 
+------------------------------------------------------------------------
+r121 | shray | 2021-09-13 15:56:36 +0530 (Mon, 13 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/src/mm.c
+
+Lab3 : Updating test code 
+------------------------------------------------------------------------
+r120 | shray | 2021-09-13 15:52:29 +0530 (Mon, 13 Sep 2021) | 1 line
+Changed paths:
+   A /lab3/tests/data
+   A /lab3/tests/data/threads.data
+
+Lab3 : Added data 
+------------------------------------------------------------------------
+r119 | shray | 2021-09-13 15:31:23 +0530 (Mon, 13 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/src/mm.c
+
+Lab3 : Updated test 
+------------------------------------------------------------------------
+r118 | shray | 2021-09-13 15:23:07 +0530 (Mon, 13 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/Makefile
+
+Lab3 : Updated makefile 
+------------------------------------------------------------------------
+r117 | shray | 2021-09-13 14:39:06 +0530 (Mon, 13 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/Makefile
+   M /lab3/tests/Makefile
+   M /lab3/tests/src/mm.c
+
+Lab3 : Updated Makefiles and source code for tests 
+------------------------------------------------------------------------
+r116 | shray | 2021-09-12 10:20:21 +0530 (Sun, 12 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/src/boundedBuffer.c
+
+Lab3 : Updated bounded buffer code 
+------------------------------------------------------------------------
+r115 | shray | 2021-09-12 10:18:25 +0530 (Sun, 12 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/src/boundedBuffer.c
+
+Lab3 : Updated bounded buffer code 
+------------------------------------------------------------------------
+r114 | shray | 2021-09-12 10:17:07 +0530 (Sun, 12 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/src/boundedBuffer.c
+
+Lab3 : Updated bounded buffer code 
+------------------------------------------------------------------------
+r113 | shray | 2021-09-12 10:15:55 +0530 (Sun, 12 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/src/boundedBuffer.c
+
+Lab3 : Updated bounded buffer code 
+------------------------------------------------------------------------
+r112 | shray | 2021-09-12 10:15:29 +0530 (Sun, 12 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/src/boundedBuffer.c
+
+Lab3 : Updated bounded buffer code 
+------------------------------------------------------------------------
+r111 | shray | 2021-09-12 10:15:07 +0530 (Sun, 12 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/utl/src/queue.c
+   M /lab3/utl/src/thread.c
+
+Lab3 : Commented debug lines 
+------------------------------------------------------------------------
+r110 | shray | 2021-09-12 10:03:05 +0530 (Sun, 12 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/utl/src/queue.c
+
+Lab3 : Corrected major bug in queue 
+------------------------------------------------------------------------
+r109 | shray | 2021-09-12 10:01:32 +0530 (Sun, 12 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/src/queueTest.c
+
+Lab3 : Updated queue test 
+------------------------------------------------------------------------
+r108 | shray | 2021-09-12 09:56:13 +0530 (Sun, 12 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/src/queueTest.c
+
+Lab3 : Updated queue test 
+------------------------------------------------------------------------
+r107 | shray | 2021-09-12 09:47:04 +0530 (Sun, 12 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/src/boundedBuffer.c
+
+Lab3 : Corrected boundedBuffer 
+------------------------------------------------------------------------
+r106 | shray | 2021-09-12 09:34:26 +0530 (Sun, 12 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/utl/src/queue.c
+   M /lab3/utl/src/thread.c
+
+Lab3 : Added debug print statements and slight modification in semPV
+------------------------------------------------------------------------
+r105 | shray | 2021-09-11 22:49:31 +0530 (Sat, 11 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/src/mm.c
+
+Lab3 : Added code for matrix multiplication 
+------------------------------------------------------------------------
+r104 | shray | 2021-09-11 18:55:08 +0530 (Sat, 11 Sep 2021) | 1 line
+Changed paths:
+   A /lab3/tests/src/mmtest.c
+
+Lab3 : Added debug mmtest
+------------------------------------------------------------------------
+r103 | shray | 2021-09-11 17:47:09 +0530 (Sat, 11 Sep 2021) | 1 line
+Changed paths:
+   A /lab3/tests/src/mm.c
+
+Lab3 : Added matrix multiplication basic code 
+------------------------------------------------------------------------
+r102 | shray | 2021-09-11 16:14:38 +0530 (Sat, 11 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/utl/src/thread.c
+
+Lab3 : Try 2 for correcting bug 
+------------------------------------------------------------------------
+r101 | shray | 2021-09-11 16:08:12 +0530 (Sat, 11 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/utl/src/thread.c
+
+Lab3 : Trying to correct bug 
+------------------------------------------------------------------------
+r100 | shray | 2021-09-11 15:58:17 +0530 (Sat, 11 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/Makefile
+   M /lab3/tests/Makefile
+
+Lab3 : Updated Makefiles 
+------------------------------------------------------------------------
+r99 | shray | 2021-09-11 15:06:19 +0530 (Sat, 11 Sep 2021) | 1 line
+Changed paths:
+   A /lab3/Makefile
+   M /lab3/tests/Makefile
+
+Lab3 : Added parent makefile, updated tests makefile 
+------------------------------------------------------------------------
+r98 | shray | 2021-09-09 23:51:36 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/src/boundedBuffer.c
+
+Lab3 : Updated test case 
+------------------------------------------------------------------------
+r97 | shray | 2021-09-09 23:29:00 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/utl/src/queue.c
+   M /lab3/utl/src/thread.c
+
+Lab3 : Added code for debugging 
+------------------------------------------------------------------------
+r96 | shray | 2021-09-09 22:59:50 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/utl/Makefile
+
+Lab3 : Added debugging symbols in makefile 
+------------------------------------------------------------------------
+r95 | shray | 2021-09-09 22:59:23 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/src/boundedBuffer.c
+
+Lab3 : Corrected bugs 
+------------------------------------------------------------------------
+r94 | shray | 2021-09-09 22:47:48 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/src/boundedBuffer.c
+
+Lab3 : Updated testcase 
+------------------------------------------------------------------------
+r93 | shray | 2021-09-09 22:46:25 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/Makefile
+
+Lab3 : Updated Makefile
+------------------------------------------------------------------------
+r92 | shray | 2021-09-09 22:42:20 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/utl/src/thread.c
+
+Lab3: Updated locks logic in lAcquire 
+------------------------------------------------------------------------
+r91 | shray | 2021-09-09 22:41:49 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/Makefile
+
+Lab3 : Updated Makefile 
+------------------------------------------------------------------------
+r90 | shray | 2021-09-09 22:31:17 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/src/boundedBuffer.c
+
+Lab3 : Corrected testcase 
+------------------------------------------------------------------------
+r89 | shray | 2021-09-09 22:07:14 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/src/boundedBuffer.c
+
+Lab3 : Updated test 
+------------------------------------------------------------------------
+r88 | shray | 2021-09-09 22:02:18 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/utl/src/thread.c
+
+Lab3 : Corrected typo 
+------------------------------------------------------------------------
+r87 | shray | 2021-09-09 21:58:48 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   D /lab3/tests/src/sigaction.c
+   D /lab3/tests/src/signalHandler.c
+   D /lab3/tests/src/temp.c
+
+Lab3 : Removed not needed files
+------------------------------------------------------------------------
+r86 | shray | 2021-09-09 21:54:48 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/Makefile
+
+Lab3 : Made changes to make file 
+------------------------------------------------------------------------
+r85 | shray | 2021-09-09 21:45:19 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/utl/Makefile
+   M /lab3/utl/header/thread.h
+   M /lab3/utl/src/thread.c
+
+Lab3 : Updated uthread functionality 
+------------------------------------------------------------------------
+r84 | shray | 2021-09-09 21:44:45 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/tests/Makefile
+   M /lab3/tests/include/thread.h
+   A /lab3/tests/src/boundedBuffer.c
+
+Lab3 : Updated testing code 
+------------------------------------------------------------------------
+r83 | shray | 2021-09-09 17:32:24 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/utl/Makefile
+
+Lab3 : Updated makefile 
+------------------------------------------------------------------------
+r82 | shray | 2021-09-09 17:25:06 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/utl/src/thread.c
+
+Lab3 : Corrected thread library code 
+------------------------------------------------------------------------
+r81 | shray | 2021-09-09 16:25:26 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/debug/src/libTest1.c
+
+Lab3: Updated testcase 
+------------------------------------------------------------------------
+r80 | shray | 2021-09-09 16:24:31 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/debug/src/libTest1.c
+
+Lab3: Updated testcase 
+------------------------------------------------------------------------
+r79 | shray | 2021-09-09 16:09:58 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/debug/src/thread.c
+
+Lab3: Corrected code 
+------------------------------------------------------------------------
+r78 | shray | 2021-09-09 16:05:39 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/debug/src/libTest1.c
+
+Lab3 : Updated test
+------------------------------------------------------------------------
+r77 | shray | 2021-09-09 15:59:33 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/debug/src/thread.c
+
+Lab3 : Updated more code 
+------------------------------------------------------------------------
+r76 | shray | 2021-09-09 15:56:27 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/debug/src/thread.c
+
+Lab3 : Adding maybe not so correct code 
+------------------------------------------------------------------------
+r75 | shray | 2021-09-09 15:42:51 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/debug/src/thread.c
+
+Lab3 : Corrected code 
+------------------------------------------------------------------------
+r74 | shray | 2021-09-09 15:40:24 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/debug/src/thread.c
+
+Lab3 : Corrected code 
+------------------------------------------------------------------------
+r73 | shray | 2021-09-09 15:37:24 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/debug/src/thread.c
+
+Lab3 : Corrected code 
+------------------------------------------------------------------------
+r72 | shray | 2021-09-09 15:35:12 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/debug/src/thread.c
+
+Lab3 :Added modifications to thread 
+------------------------------------------------------------------------
+r71 | shray | 2021-09-09 15:28:49 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/debug/Makefile
+
+Lab3 : Updated makefile for debug
+------------------------------------------------------------------------
+r70 | shray | 2021-09-09 15:28:14 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   A /lab3/debug/Makefile
+
+Lab3 : Added makefile for debug
+------------------------------------------------------------------------
+r69 | shray | 2021-09-09 15:24:08 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   A /lab3/debug
+   A /lab3/debug/include
+   A /lab3/debug/include/queue.h
+   A /lab3/debug/include/thread.h
+   A /lab3/debug/src
+   A /lab3/debug/src/libTest1.c
+   A /lab3/debug/src/queue.c
+   A /lab3/debug/src/thread.c
+
+Lab3 : Adding debugging files 
+------------------------------------------------------------------------
+r68 | shray | 2021-09-09 15:17:22 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   D /lab3/tests/queueTest.c
+   M /lab3/tests/src/queueTest.c
+
+Lab3 : Updated code 
+------------------------------------------------------------------------
+r67 | shray | 2021-09-09 15:15:35 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   A /lab3/utl/Makefile
+
+Lab3 : Added makefile for library 
+------------------------------------------------------------------------
+r66 | shray | 2021-09-09 15:14:50 +0530 (Thu, 09 Sep 2021) | 1 line
+Changed paths:
+   A /lab3/tests/Makefile
+   A /lab3/tests/include
+   A /lab3/tests/include/queue.h
+   A /lab3/tests/include/thread.h
+   A /lab3/tests/lib
+   A /lab3/tests/src
+   A /lab3/tests/src/libTest1.c
+   A /lab3/tests/src/queueTest.c
+   A /lab3/tests/src/sigaction.c
+   A /lab3/tests/src/signalHandler.c
+   A /lab3/tests/src/temp.c
+
+Lab3 : Adding basic tests 
+------------------------------------------------------------------------
+r65 | shray | 2021-09-08 20:09:55 +0530 (Wed, 08 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/utl/header/queue.h
+   M /lab3/utl/header/thread.h
+   M /lab3/utl/src/queue.c
+   M /lab3/utl/src/thread.c
+
+Lab3 : Added code and updated make file.
+------------------------------------------------------------------------
+r64 | shray | 2021-09-08 19:17:48 +0530 (Wed, 08 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/utl/header/thread.h
+   M /lab3/utl/src/queue.c
+
+Lab3 : Added more code 
+------------------------------------------------------------------------
+r63 | shray | 2021-09-08 17:27:41 +0530 (Wed, 08 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/utl/header/thread.h
+
+Lab3 : Added code for threads
+------------------------------------------------------------------------
+r62 | shray | 2021-09-08 11:09:42 +0530 (Wed, 08 Sep 2021) | 1 line
+Changed paths:
+   A /lab3/queue
+   A /lab3/queue/Makefile
+   A /lab3/queue/queue.c
+   A /lab3/queue/queue.h
+   A /lab3/queue/queueTest.c
+
+Lab3 : Adding testing directory
+------------------------------------------------------------------------
+r61 | shray | 2021-09-08 10:51:09 +0530 (Wed, 08 Sep 2021) | 1 line
+Changed paths:
+   M /lab3/utl/header/queue.h
+   M /lab3/utl/header/thread.h
+   M /lab3/utl/src/thread.c
+
+Lab3 : Added changes 
+------------------------------------------------------------------------
+r60 | shray | 2021-09-05 10:54:30 +0530 (Sun, 05 Sep 2021) | 1 line
+Changed paths:
+   A /lab3/utl/header/thread.h
+   A /lab3/utl/src/thread.c
+
+Lab3 : Added basic structure and code for locks. 
+------------------------------------------------------------------------
+r59 | shray | 2021-09-04 23:05:06 +0530 (Sat, 04 Sep 2021) | 1 line
+Changed paths:
+   A /lab3/utl
+   A /lab3/utl/header
+   A /lab3/utl/header/queue.h
+   A /lab3/utl/src
+   A /lab3/utl/src/queue.c
+
+Lab3 : Added basic directory structure and segregated queue code into header and source file
+------------------------------------------------------------------------
+r58 | shray | 2021-09-04 22:50:49 +0530 (Sat, 04 Sep 2021) | 1 line
+Changed paths:
+   A /lab3/tests
+   A /lab3/tests/queueTest.c
+
+Lab3 : Added queue implementation. Added a basic test to test whether queue class is implemented correctly. 
+------------------------------------------------------------------------
+r57 | shray | 2021-09-02 22:55:36 +0530 (Thu, 02 Sep 2021) | 1 line
+Changed paths:
+   A /lab3
+
+Lab3 : Added directory
+------------------------------------------------------------------------

@@ -1,0 +1,21 @@
+=========================================
+To only build the library :  Use "make library" 
+
+To make test :  Use "make tests"
+
+To run tests : Use "make run"
+
+To view the graphs : Use "make plot"
+
+
+Note : 
+1. User can restrict the number of maximum
+	number of user threads by changeing the value of 
+	MAX_THREADS in utl/src/thread.c
+2. Do not use any other kernel level thread while 
+	using this library. Becasue the implementation is 
+	based on sigprocmask. 
+
+For Limitation and Implemenation details, 
+refer Docs/Lab3-Report.pdf
+=========================================

@@ -1,0 +1,26 @@
+*Please Adhere to the following points to run the Chat-Application. 
+
+1.    $ cd backend
+      $ npm install 
+      $ node index.js
+   
+   This will start the backend server. 
+
+2.    $ cd frontend
+      $ npm install 
+      $ npm run start
+   
+   This will start the client (React) server. 
+
+
+3. Open "http://localhost:3000/" and play with the chat-application.
+
+
+
+Note:
+--Lab Report is available under the "docs" folder.
+--Performance plots are available under the "plots" folder. To run a plot simply fire command "$ gnuplot
+<.plot file>"
+
+
+						-x-

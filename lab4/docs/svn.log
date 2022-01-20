@@ -1,0 +1,269 @@
+------------------------------------------------------------------------
+r181 | shray | 2021-10-19 22:41:53 +0530 (Tue, 19 Oct 2021) | 1 line
+Changed paths:
+   M /lab4/scripts/mlp.py
+   M /lab4/scripts/mlp2.py
+
+Lab4 : Updated python code 
+------------------------------------------------------------------------
+r180 | shray | 2021-10-19 19:39:28 +0530 (Tue, 19 Oct 2021) | 1 line
+Changed paths:
+   M /lab4/Makefile
+
+Lab4 : Update makefile 
+------------------------------------------------------------------------
+r179 | shray | 2021-10-19 19:34:00 +0530 (Tue, 19 Oct 2021) | 1 line
+Changed paths:
+   M /lab4/src/mlpClassifier.c
+
+Lab4 : Removing incorrect cross-entropy support 
+------------------------------------------------------------------------
+r178 | shray | 2021-10-19 19:33:21 +0530 (Tue, 19 Oct 2021) | 1 line
+Changed paths:
+   A /lab4/data/housing.csv
+   M /lab4/scripts/mlp.py
+   A /lab4/scripts/mlp2.py
+
+Lab4 : Added python regression code and data 
+------------------------------------------------------------------------
+r177 | shray | 2021-10-18 18:17:43 +0530 (Mon, 18 Oct 2021) | 1 line
+Changed paths:
+   M /lab4/src/mlpClassifier.c
+
+Lab4 : Commented cross entropy stuff 
+------------------------------------------------------------------------
+r176 | shray | 2021-10-18 18:16:11 +0530 (Mon, 18 Oct 2021) | 1 line
+Changed paths:
+   A /lab4/scripts/batch_act_func.plot
+   A /lab4/scripts/data_set1_loss_vs_iterations3.plot
+   A /lab4/scripts/data_set2_loss_vs_iterations3.plot
+   A /lab4/scripts/gd_variations_sig.plot
+
+Lab4 : Added plotting scripts 
+------------------------------------------------------------------------
+r175 | shray | 2021-10-18 18:15:06 +0530 (Mon, 18 Oct 2021) | 1 line
+Changed paths:
+   A /lab4/data/graph1
+   A /lab4/data/graph1/batch_relu_mse_reg.txt
+   A /lab4/data/graph1/batch_sig_mse_reg.txt
+   A /lab4/data/graph1/batch_tanh_mse_reg.txt
+   A /lab4/data/graph2
+   A /lab4/data/graph2/batch_sig_mse_reg.txt
+   A /lab4/data/graph2/mini_batch_sig_mse_reg.txt
+   A /lab4/data/graph2/sdg_sig_mse_reg.txt
+   A /lab4/data/graph3_3
+   A /lab4/data/graph3_3/batch_sig_mse_cls.txt
+   A /lab4/data/graph3_3/mini_batch_sig_mse_cls.txt
+   A /lab4/data/graph3_3/sdg_sig_mse_cls.txt
+   A /lab4/data/graph4_3
+   A /lab4/data/graph4_3/batch_sig_mse_reg.txt
+   A /lab4/data/graph4_3/mini_batch_sig_mse_reg.txt
+   A /lab4/data/graph4_3/sdg_sig_mse_reg.txt
+
+Lab4 : Added data points for graph plotting
+------------------------------------------------------------------------
+r174 | shray | 2021-10-18 12:21:20 +0530 (Mon, 18 Oct 2021) | 1 line
+Changed paths:
+   A /lab4/ReadMe.txt
+
+Lab4 : Added ReadMe.txt
+------------------------------------------------------------------------
+r173 | shray | 2021-10-18 12:20:57 +0530 (Mon, 18 Oct 2021) | 1 line
+Changed paths:
+   D /lab4/ReadMe
+   A /lab4/scripts
+   A /lab4/scripts/mlp.py
+
+Lab4: Updated code
+------------------------------------------------------------------------
+r172 | shray | 2021-10-18 12:18:38 +0530 (Mon, 18 Oct 2021) | 1 line
+Changed paths:
+   M /lab4/src/mlpClassifier.c
+   M /lab4/src/test.c
+
+Lab4 : Updated code, added data printing mechanism. Also started with softmax
+------------------------------------------------------------------------
+r171 | shray | 2021-10-17 18:11:20 +0530 (Sun, 17 Oct 2021) | 1 line
+Changed paths:
+   A /lab4/ReadMe
+
+Lab4 : Added readme 
+------------------------------------------------------------------------
+r170 | shray | 2021-10-17 17:58:06 +0530 (Sun, 17 Oct 2021) | 1 line
+Changed paths:
+   A /lab4/docs
+   A /lab4/docs/commands.txt
+   A /lab4/docs/env.txt
+
+Lab4 : Added docs folder
+------------------------------------------------------------------------
+r169 | shray | 2021-10-17 17:51:45 +0530 (Sun, 17 Oct 2021) | 1 line
+Changed paths:
+   M /lab4/Makefile
+
+Lab4 : Updated Makefile
+------------------------------------------------------------------------
+r168 | shray | 2021-10-17 17:28:19 +0530 (Sun, 17 Oct 2021) | 1 line
+Changed paths:
+   A /lab4/src/test2.c
+
+Lab4 : Simplified test case 2 
+------------------------------------------------------------------------
+r167 | shray | 2021-10-17 16:59:39 +0530 (Sun, 17 Oct 2021) | 1 line
+Changed paths:
+   M /lab4/src/mlpClassifier.c
+   M /lab4/src/test.c
+
+Lab4 : Corrected bug in batch size 
+------------------------------------------------------------------------
+r166 | shray | 2021-10-17 16:48:05 +0530 (Sun, 17 Oct 2021) | 1 line
+Changed paths:
+   M /lab4/src/mlpClassifier.c
+   M /lab4/src/test.c
+
+Lab4 : Added support for Mini-Batch and Batch GD
+------------------------------------------------------------------------
+r165 | shray | 2021-10-17 14:03:58 +0530 (Sun, 17 Oct 2021) | 1 line
+Changed paths:
+   M /lab4/include/mlpClassifier.h
+
+Lab4 : Updated support in header file 
+------------------------------------------------------------------------
+r164 | shray | 2021-10-17 14:03:06 +0530 (Sun, 17 Oct 2021) | 1 line
+Changed paths:
+   M /lab4/src/mlpClassifier.c
+   M /lab4/src/test.c
+
+Lab4 : Added support for regression 
+------------------------------------------------------------------------
+r163 | shray | 2021-10-16 17:28:47 +0530 (Sat, 16 Oct 2021) | 1 line
+Changed paths:
+   M /lab4/src/test.c
+
+Lab4 : Updating test
+------------------------------------------------------------------------
+r162 | shray | 2021-10-16 17:15:55 +0530 (Sat, 16 Oct 2021) | 1 line
+Changed paths:
+   M /lab4/src/test.c
+
+Lab4 : Added debugging prints 
+------------------------------------------------------------------------
+r161 | shray | 2021-10-16 15:08:50 +0530 (Sat, 16 Oct 2021) | 1 line
+Changed paths:
+   M /lab4/src/test.c
+
+Lab4  : Updated test file
+------------------------------------------------------------------------
+r160 | shray | 2021-10-16 14:39:55 +0530 (Sat, 16 Oct 2021) | 1 line
+Changed paths:
+   A /lab4/data/housing.txt
+   A /lab4/data/housingOrignal.txt
+   A /lab4/data/normalisedHousing.txt
+
+Lab4 : Added housing data and its normalised one 
+------------------------------------------------------------------------
+r159 | shray | 2021-10-16 14:39:13 +0530 (Sat, 16 Oct 2021) | 1 line
+Changed paths:
+   M /lab4/src/mlpClassifier.c
+
+Lab4 : Updated classifier 
+------------------------------------------------------------------------
+r158 | shray | 2021-10-16 12:38:52 +0530 (Sat, 16 Oct 2021) | 1 line
+Changed paths:
+   M /lab4/Makefile
+
+Lab4 : Updated makefile 
+------------------------------------------------------------------------
+r157 | shray | 2021-10-16 12:15:33 +0530 (Sat, 16 Oct 2021) | 1 line
+Changed paths:
+   A /lab4/data/normalised.txt
+
+Lab4 : Added normalised data for classifier data 
+------------------------------------------------------------------------
+r156 | shray | 2021-10-16 12:13:55 +0530 (Sat, 16 Oct 2021) | 1 line
+Changed paths:
+   M /lab4/src/test.c
+
+Lab4 : Added Usage, Debug Information Functions and Corrected other code 
+------------------------------------------------------------------------
+r155 | shray | 2021-10-12 22:13:58 +0530 (Tue, 12 Oct 2021) | 1 line
+Changed paths:
+   D /lab4/src/mlp.c
+   D /lab4/src/reader.c
+
+Lab4 : Removed not needed files 
+------------------------------------------------------------------------
+r154 | shray | 2021-10-12 22:12:45 +0530 (Tue, 12 Oct 2021) | 1 line
+Changed paths:
+   D /lab4/src/backPropogate.c
+   D /lab4/src/classifier.c
+   D /lab4/src/forwardPropogate.c
+   D /lab4/src/readData.c
+
+Lab4 : Removed not needed files now 
+------------------------------------------------------------------------
+r153 | shray | 2021-10-12 22:12:08 +0530 (Tue, 12 Oct 2021) | 1 line
+Changed paths:
+   A /lab4/src/test.c
+
+Lab4 : Added testing file 
+------------------------------------------------------------------------
+r152 | shray | 2021-10-12 22:11:34 +0530 (Tue, 12 Oct 2021) | 1 line
+Changed paths:
+   A /lab4/data
+   A /lab4/data/data.csv
+   A /lab4/data/data.txt
+
+Lab4 : Added data files for c and for python classifier 
+------------------------------------------------------------------------
+r151 | shray | 2021-10-12 22:10:30 +0530 (Tue, 12 Oct 2021) | 1 line
+Changed paths:
+   A /lab4/src/mlp.py
+
+Lab4 : Adding basic  python classifier written 
+------------------------------------------------------------------------
+r150 | shray | 2021-10-12 22:09:32 +0530 (Tue, 12 Oct 2021) | 1 line
+Changed paths:
+   A /lab4/src/backPropogate.c
+   A /lab4/src/classifier.c
+   A /lab4/src/forwardPropogate.c
+   A /lab4/src/mlp.c
+   A /lab4/src/readData.c
+
+Lab4 : Adding files in which I did coding 
+------------------------------------------------------------------------
+r149 | shray | 2021-10-12 22:08:25 +0530 (Tue, 12 Oct 2021) | 1 line
+Changed paths:
+   A /lab4/include/mlpClassifier.h
+   A /lab4/src/mlpClassifier.c
+
+Lab4 : Commit all code written 
+------------------------------------------------------------------------
+r148 | shray | 2021-10-12 22:07:55 +0530 (Tue, 12 Oct 2021) | 1 line
+Changed paths:
+   A /lab4/Makefile
+   M /lab4/src/reader.c
+
+Lab4: Added makefile  
+------------------------------------------------------------------------
+r147 | shray | 2021-10-08 21:10:38 +0530 (Fri, 08 Oct 2021) | 1 line
+Changed paths:
+   M /lab4/src/reader.c
+
+Lab4 : Added mlpClassifier struct 
+------------------------------------------------------------------------
+r146 | shray | 2021-10-08 16:51:05 +0530 (Fri, 08 Oct 2021) | 1 line
+Changed paths:
+   A /lab4/include
+   A /lab4/src
+   A /lab4/src/reader.c
+
+Lab4 : Added directories and reading file code 
+------------------------------------------------------------------------
+r143 | shray | 2021-09-28 11:42:50 +0530 (Tue, 28 Sep 2021) | 1 line
+Changed paths:
+   A /assignments
+   A /lab4
+
+Lab4 : Starting with Lab4 
+------------------------------------------------------------------------

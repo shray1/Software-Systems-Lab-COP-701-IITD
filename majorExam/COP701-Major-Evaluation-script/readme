@@ -1,0 +1,19 @@
+You do not need to turn in the evaluation script in your submissions. Just upload your
+submission i.e. A zip file containing the source code, header files and Makefile only.
+Please do not upload any other files except the aforementioned files.
+
+
+You have to follow the below instructions while evaluating your submission:
+
+Step-1 : Place the submission in the submissions directory.
+		(For demo purpose, there are already two submissions).
+
+Step-2 : Open terminal inside the submissions folder or navigate into the submissions
+	     folder and execute the following command, "unzip \*.zip" .
+
+Step-3 : Come out of submissions directory and modify the paths in ssl_grade.py.
+		 give the absolute path of the submissions directory, output directory and the trace directory.
+
+Step-4 : Execute ssl_grade.py with the following command "python3 ssl_grade.py" and it will
+		 grade all the submissions and save the scores in csv format (score.csv) in the same
+		 directory.

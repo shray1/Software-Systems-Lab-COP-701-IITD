@@ -1,0 +1,152 @@
+------------------------------------------------------------------------
+r54 | shray | 2021-08-28 14:51:04 +0530 (Sat, 28 Aug 2021) | 1 line
+Changed paths:
+   A /lab2/docs/Lab2-Report.pdf
+   A /lab2/docs/env.txt
+
+Lab2 : Added report 
+------------------------------------------------------------------------
+r53 | shray | 2021-08-28 14:50:33 +0530 (Sat, 28 Aug 2021) | 1 line
+Changed paths:
+   M /lab2/src/main.c
+
+Lab2 : Added accuracy readings in code
+------------------------------------------------------------------------
+r52 | shray | 2021-08-28 13:37:57 +0530 (Sat, 28 Aug 2021) | 1 line
+Changed paths:
+   M /lab2/Makefile
+
+Lab2 : Update makefile
+------------------------------------------------------------------------
+r51 | shray | 2021-08-28 13:30:22 +0530 (Sat, 28 Aug 2021) | 1 line
+Changed paths:
+   A /lab2/data/leibnizTime.data
+   A /lab2/data/wallisTime.data
+   A /lab2/scripts/leibnizTime.plot
+   A /lab2/scripts/time.plot
+   A /lab2/scripts/wallisTime.plot
+
+Lab2 : Added data files and gnuplot scripts 
+------------------------------------------------------------------------
+r50 | shray | 2021-08-27 15:06:42 +0530 (Fri, 27 Aug 2021) | 1 line
+Changed paths:
+   M /lab2/Makefile
+
+Lab2 : Updated makefile 
+------------------------------------------------------------------------
+r49 | shray | 2021-08-27 15:00:30 +0530 (Fri, 27 Aug 2021) | 1 line
+Changed paths:
+   D /lab2/main2.c
+
+Lab2 : Cleaned up directory 
+------------------------------------------------------------------------
+r48 | shray | 2021-08-27 14:59:19 +0530 (Fri, 27 Aug 2021) | 1 line
+Changed paths:
+   M /lab2/Makefile
+   A /lab2/scripts
+   A /lab2/scripts/accuracyTerms.plot
+
+Lab2 : Added plot script
+------------------------------------------------------------------------
+r47 | shray | 2021-08-27 14:58:27 +0530 (Fri, 27 Aug 2021) | 1 line
+Changed paths:
+   A /lab2/data
+   A /lab2/data/leibniz.data
+   A /lab2/data/wallis.data
+
+Lab2 : Added data folder
+------------------------------------------------------------------------
+r46 | shray | 2021-08-27 13:08:06 +0530 (Fri, 27 Aug 2021) | 1 line
+Changed paths:
+   M /lab2/src/main.c
+
+Lab2 : Added speedup text
+------------------------------------------------------------------------
+r45 | shray | 2021-08-27 12:09:46 +0530 (Fri, 27 Aug 2021) | 1 line
+Changed paths:
+   M /lab2/src/main.c
+
+Lab2 : Corrected bug in accuracy function
+------------------------------------------------------------------------
+r44 | shray | 2021-08-27 11:46:27 +0530 (Fri, 27 Aug 2021) | 1 line
+Changed paths:
+   A /lab2/src/approachM.ignore
+   A /lab2/src/approachS.ignore
+
+Lab2 : Added aproachM, aproachS as ignore files 
+------------------------------------------------------------------------
+r43 | shray | 2021-08-27 11:45:49 +0530 (Fri, 27 Aug 2021) | 1 line
+Changed paths:
+   M /lab2/src/main.c
+
+Lab2: Added semaphore implementation to code.
+------------------------------------------------------------------------
+r42 | shray | 2021-08-27 11:36:21 +0530 (Fri, 27 Aug 2021) | 1 line
+Changed paths:
+   M /lab2/src/main.c
+
+Lab2 : Added accuracy function. Cleaned up code
+------------------------------------------------------------------------
+r41 | shray | 2021-08-27 09:42:01 +0530 (Fri, 27 Aug 2021) | 1 line
+Changed paths:
+   M /lab2/src/main.c
+
+Lab2 : Updated code
+------------------------------------------------------------------------
+r40 | shray | 2021-08-27 09:38:50 +0530 (Fri, 27 Aug 2021) | 1 line
+Changed paths:
+   M /lab2/main2.c
+
+Lab2 : Updated code
+------------------------------------------------------------------------
+r39 | shray | 2021-08-27 09:24:21 +0530 (Fri, 27 Aug 2021) | 1 line
+Changed paths:
+   A /lab2/main2.c
+
+Lab2 : Added testing file with semaphore
+------------------------------------------------------------------------
+r38 | shray | 2021-08-27 09:12:34 +0530 (Fri, 27 Aug 2021) | 1 line
+Changed paths:
+   M /lab2/src/main.c
+
+Lab2 : Updated code
+------------------------------------------------------------------------
+r37 | shray | 2021-08-25 16:03:07 +0530 (Wed, 25 Aug 2021) | 1 line
+Changed paths:
+   A /lab2/Makefile
+
+Lab2 : Added makefile
+------------------------------------------------------------------------
+r36 | shray | 2021-08-25 15:56:50 +0530 (Wed, 25 Aug 2021) | 1 line
+Changed paths:
+   A /lab2/docs
+   D /lab2/main.c
+   A /lab2/src
+   A /lab2/src/main.c (from /lab2/main.c:35)
+
+Lab2 : Added directory structure
+------------------------------------------------------------------------
+r35 | shray | 2021-08-25 15:52:13 +0530 (Wed, 25 Aug 2021) | 1 line
+Changed paths:
+   M /lab2/main.c
+
+Lab2 : Updated code 
+------------------------------------------------------------------------
+r34 | shray | 2021-08-25 15:35:01 +0530 (Wed, 25 Aug 2021) | 1 line
+Changed paths:
+   M /lab2/main.c
+
+Lab2 : Added multi-threading support
+------------------------------------------------------------------------
+r33 | shray | 2021-08-24 14:12:31 +0530 (Tue, 24 Aug 2021) | 1 line
+Changed paths:
+   A /lab2/main.c
+
+Lab2 : Added basic code using 2 algorithm to compute value of pi 
+------------------------------------------------------------------------
+r32 | shray | 2021-08-24 09:20:24 +0530 (Tue, 24 Aug 2021) | 1 line
+Changed paths:
+   A /lab2
+
+Lab2 : Added lab2 directory
+------------------------------------------------------------------------

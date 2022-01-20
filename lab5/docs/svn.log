@@ -1,0 +1,416 @@
+------------------------------------------------------------------------
+r231 | shray | 2021-11-27 01:33:08 +0530 (Sat, 27 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/frontend/chatapp/src/App.js
+   M /lab5/frontend/chatapp/src/components/Chat.js
+   M /lab5/frontend/chatapp/src/components/ChatList.js
+   M /lab5/frontend/chatapp/src/components/ChatMsgsListBox.js
+   M /lab5/frontend/chatapp/src/components/LoggedUserSection.js
+   M /lab5/frontend/chatapp/src/components/Login.js
+   M /lab5/frontend/chatapp/src/components/SearchChatSection.js
+   M /lab5/frontend/chatapp/src/components/SendMessageForm.js
+   M /lab5/frontend/chatapp/src/components/SingleChatListItem.js
+
+Lab5 : Removed some warnings 
+------------------------------------------------------------------------
+r230 | shray | 2021-11-27 01:12:58 +0530 (Sat, 27 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/ReadMe
+
+Lab5 : Updated ReadMe
+------------------------------------------------------------------------
+r229 | shray | 2021-11-27 01:07:03 +0530 (Sat, 27 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/frontend/chatapp/src/components/SendMessageForm.js
+
+Lab5 : Added error messages
+------------------------------------------------------------------------
+r228 | shray | 2021-11-27 00:41:22 +0530 (Sat, 27 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/frontend/chatapp/src/components/Login.js
+
+Lab5 : Added login errors 
+------------------------------------------------------------------------
+r227 | shray | 2021-11-26 23:42:04 +0530 (Fri, 26 Nov 2021) | 1 line
+Changed paths:
+   A /lab5/docs/svn.log
+
+Lab5 : Added svn log 
+------------------------------------------------------------------------
+r226 | shray | 2021-11-26 23:39:07 +0530 (Fri, 26 Nov 2021) | 1 line
+Changed paths:
+   A /lab5/docs/Lab5-Report.pdf
+   A /lab5/docs/env.txt
+
+Lab5 : Added report 
+------------------------------------------------------------------------
+r225 | shray | 2021-11-26 22:52:35 +0530 (Fri, 26 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/frontend/chatapp/src/App.js
+   M /lab5/frontend/chatapp/src/components/ChatMsgsListBox.js
+   A /lab5/plots
+   A /lab5/plots/dbRequest.plot
+   A /lab5/plots/plotBoth.plot
+   A /lab5/plots/request.plot
+   A /lab5/plots/response.data
+   A /lab5/plots/responseWithDb.data
+
+Lab5 : Added plots 
+------------------------------------------------------------------------
+r224 | shray | 2021-11-26 18:52:00 +0530 (Fri, 26 Nov 2021) | 1 line
+Changed paths:
+   A /lab5/ReadMe (from /lab5/ReadMe2.txt:223)
+   D /lab5/ReadMe2.txt
+
+Lab5 : Resolving conflict 
+------------------------------------------------------------------------
+r223 | shray | 2021-11-26 18:51:18 +0530 (Fri, 26 Nov 2021) | 1 line
+Changed paths:
+   D /lab5/ReadMe.txt
+   A /lab5/ReadMe2.txt
+
+Lab5 : Updating changes
+------------------------------------------------------------------------
+r222 | shray | 2021-11-26 18:46:41 +0530 (Fri, 26 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/ReadMe.txt
+
+Lab5 : Updated Readme
+------------------------------------------------------------------------
+r221 | shray | 2021-11-26 18:42:00 +0530 (Fri, 26 Nov 2021) | 1 line
+Changed paths:
+   A /lab5/ReadMe.txt
+   A /lab5/docs
+   A /lab5/docs/Architecture.png
+   A /lab5/docs/Database.png
+   A /lab5/docs/ReactComponents.png
+   A /lab5/docs/Screenshots
+   A /lab5/docs/Screenshots/Postman.png
+   A /lab5/docs/Screenshots/mongodb.png
+   A /lab5/docs/Screenshots/mongodb2.png
+
+Lab5 : Added readme and snips 
+------------------------------------------------------------------------
+r220 | shray | 2021-11-26 18:41:12 +0530 (Fri, 26 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/backend/index.js
+   M /lab5/frontend/chatapp/public/index.html
+   M /lab5/frontend/chatapp/src/components/Chat.js
+   M /lab5/frontend/chatapp/src/components/Login.js
+   M /lab5/frontend/chatapp/src/components/SendMessageForm.js
+   M /lab5/frontend/chatapp/src/components/SingleChatListItem.js
+
+Lab5 : Updating changes 
+------------------------------------------------------------------------
+r219 | shray | 2021-11-26 16:32:01 +0530 (Fri, 26 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/backend/index.js
+
+Lab5 : Added socket io integration in backend
+------------------------------------------------------------------------
+r218 | shray | 2021-11-26 16:31:38 +0530 (Fri, 26 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/frontend/chatapp/package-lock.json
+   M /lab5/frontend/chatapp/package.json
+   M /lab5/frontend/chatapp/src/components/Chat.js
+   M /lab5/frontend/chatapp/src/components/ChatList.js
+   M /lab5/frontend/chatapp/src/components/ChatMsgsListBox.js
+   M /lab5/frontend/chatapp/src/components/SingleChatListItem.js
+
+Lab5 : Updating code and added socket io integration 
+------------------------------------------------------------------------
+r217 | shray | 2021-11-26 00:59:55 +0530 (Fri, 26 Nov 2021) | 1 line
+Changed paths:
+   A /assignments/A2-Submission Guidelines.pdf
+   A /assignments/Assignment One.pdf
+   A /assignments/Assignment Two.pdf
+   A /assignments/COP701- Assignment-4.pdf
+   A /assignments/ThreadsAssignment.pdf
+   A /assignments/Toy Chat Application.pdf
+
+ Added Assignments 
+------------------------------------------------------------------------
+r216 | shray | 2021-11-26 00:59:27 +0530 (Fri, 26 Nov 2021) | 1 line
+Changed paths:
+   A /majorExam
+   A /majorExam/COP701 Major Exam.pdf
+   A /majorExam/COP701-Major-Evaluation-script
+   A /majorExam/COP701-Major-Evaluation-script/output
+   A /majorExam/COP701-Major-Evaluation-script/output/mcs212152_1test1.trace
+   A /majorExam/COP701-Major-Evaluation-script/output/mcs212152_1test2.trace
+   A /majorExam/COP701-Major-Evaluation-script/output/mcs212152_1test3.trace
+   A /majorExam/COP701-Major-Evaluation-script/output/mcs212152_1test4.trace
+   A /majorExam/COP701-Major-Evaluation-script/output/mcs212152_1test5.trace
+   A /majorExam/COP701-Major-Evaluation-script/output/mcs212152_2test1.trace
+   A /majorExam/COP701-Major-Evaluation-script/output/mcs212152_2test2.trace
+   A /majorExam/COP701-Major-Evaluation-script/output/mcs212152_2test3.trace
+   A /majorExam/COP701-Major-Evaluation-script/output/mcs212152_2test4.trace
+   A /majorExam/COP701-Major-Evaluation-script/output/mcs212152_2test5.trace
+   A /majorExam/COP701-Major-Evaluation-script/readme
+   A /majorExam/COP701-Major-Evaluation-script/scores.csv
+   A /majorExam/COP701-Major-Evaluation-script/ssl_grade.py
+   A /majorExam/COP701-Major-Evaluation-script/submissions
+   A /majorExam/COP701-Major-Evaluation-script/submissions/MCS212152_Major
+   A /majorExam/COP701-Major-Evaluation-script/submissions/MCS212152_Major/Makefile
+   A /majorExam/COP701-Major-Evaluation-script/submissions/MCS212152_Major/ReadMe.txt
+   A /majorExam/COP701-Major-Evaluation-script/submissions/MCS212152_Major/sim.c
+   A /majorExam/COP701-Major-Evaluation-script/tests
+   A /majorExam/COP701-Major-Evaluation-script/tests/test1.trace
+   A /majorExam/COP701-Major-Evaluation-script/tests/test2.trace
+   A /majorExam/COP701-Major-Evaluation-script/tests/test3.trace
+   A /majorExam/COP701-Major-Evaluation-script/tests/test4.trace
+   A /majorExam/COP701-Major-Evaluation-script/tests/test5.trace
+   A /majorExam/architectureReview.pdf
+   A /submissions/MCS212152_Major.zip
+
+ Add Major Exam 
+------------------------------------------------------------------------
+r215 | shray | 2021-11-24 23:21:06 +0530 (Wed, 24 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/frontend/chatapp/src/components/Chat.js
+   M /lab5/frontend/chatapp/src/components/ChatList.js
+   M /lab5/frontend/chatapp/src/components/ChatMsgsListBox.js
+   M /lab5/frontend/chatapp/src/components/Login.js
+   M /lab5/frontend/chatapp/src/components/SingleChatListItem.js
+
+Lab5 : Code cleanup 
+------------------------------------------------------------------------
+r214 | shray | 2021-11-24 22:45:36 +0530 (Wed, 24 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/frontend/chatapp/src/App.js
+   M /lab5/frontend/chatapp/src/components/Chat.js
+   M /lab5/frontend/chatapp/src/components/ChatList.js
+   M /lab5/frontend/chatapp/src/components/ChatMsgsListBox.js
+   M /lab5/frontend/chatapp/src/components/Chatbox.js
+   M /lab5/frontend/chatapp/src/components/Login.js
+   M /lab5/frontend/chatapp/src/components/SendMessageForm.js
+
+Lab5 : Saving progress in frontend 
+------------------------------------------------------------------------
+r213 | shray | 2021-11-24 22:45:10 +0530 (Wed, 24 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/backend/index.js
+   M /lab5/backend/package-lock.json
+   M /lab5/backend/package.json
+
+Lab5 : Updated backend.
+------------------------------------------------------------------------
+r212 | shray | 2021-11-24 11:52:36 +0530 (Wed, 24 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/backend/index.js
+
+Lab5 : Updated server
+------------------------------------------------------------------------
+r211 | shray | 2021-11-24 11:52:19 +0530 (Wed, 24 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/frontend/chatapp/src/components/Chat.js
+   M /lab5/frontend/chatapp/src/components/ChatMsgsListBox.js
+   M /lab5/frontend/chatapp/src/components/Login.js
+   M /lab5/frontend/chatapp/src/components/SendMessageForm.js
+   M /lab5/frontend/chatapp/src/components/SingleChatListItem.js
+
+Lab5 : Updated frontend. Added groupList and corrected functioning.
+------------------------------------------------------------------------
+r210 | shray | 2021-11-24 10:26:04 +0530 (Wed, 24 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/backend/index.js
+
+Lab5 : Updated server 
+------------------------------------------------------------------------
+r209 | shray | 2021-11-24 10:25:43 +0530 (Wed, 24 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/frontend/chatapp/src/App.js
+   M /lab5/frontend/chatapp/src/components/Chat.js
+   M /lab5/frontend/chatapp/src/components/ChatList.js
+   M /lab5/frontend/chatapp/src/components/ChatMsgsListBox.js
+   M /lab5/frontend/chatapp/src/components/SingleChatListItem.js
+
+Lab5 : Added code and used useEffect 
+------------------------------------------------------------------------
+r208 | shray | 2021-11-23 20:15:27 +0530 (Tue, 23 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/backend/index.js
+   M /lab5/backend/package-lock.json
+   M /lab5/backend/package.json
+
+Lab5 : Saving changes. Added cors
+------------------------------------------------------------------------
+r207 | shray | 2021-11-23 20:15:04 +0530 (Tue, 23 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/frontend/chatapp/package.json
+   M /lab5/frontend/chatapp/src/App.js
+   M /lab5/frontend/chatapp/src/components/Chat.js
+   M /lab5/frontend/chatapp/src/components/Login.js
+   M /lab5/frontend/chatapp/src/components/SendMessageForm.js
+
+Lab5 : Added some fetch calls, saving code 
+------------------------------------------------------------------------
+r206 | shray | 2021-11-23 14:36:18 +0530 (Tue, 23 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/frontend/chatapp/src/App.js
+   M /lab5/frontend/chatapp/src/components/Chat.js
+   M /lab5/frontend/chatapp/src/components/ChatList.js
+   M /lab5/frontend/chatapp/src/components/ChatMsgsListBox.js
+   M /lab5/frontend/chatapp/src/components/Chatbox.js
+   A /lab5/frontend/chatapp/src/components/LoggedUserSection.js
+   A /lab5/frontend/chatapp/src/components/SearchChatSection.js
+   M /lab5/frontend/chatapp/src/components/SendMessageForm.js
+   M /lab5/frontend/chatapp/src/components/SingleChatListItem.js
+
+Lab5 : Updated UI components and saving work
+------------------------------------------------------------------------
+r205 | shray | 2021-11-23 08:57:51 +0530 (Tue, 23 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/backend/index.js
+
+Lab5 : Committing basic backend server made so far
+------------------------------------------------------------------------
+r204 | shray | 2021-11-23 04:46:45 +0530 (Tue, 23 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/backend/index.js
+
+Lab5 : Saving progress made so far.
+------------------------------------------------------------------------
+r203 | shray | 2021-11-23 04:05:26 +0530 (Tue, 23 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/backend/index.js
+
+Lab5 : Saving progress made so far.
+------------------------------------------------------------------------
+r202 | shray | 2021-11-23 02:44:39 +0530 (Tue, 23 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/backend/index.js
+   M /lab5/backend/package-lock.json
+   M /lab5/backend/package.json
+
+Lab5 : Added login validation and token generation .
+------------------------------------------------------------------------
+r201 | shray | 2021-11-23 01:49:11 +0530 (Tue, 23 Nov 2021) | 1 line
+Changed paths:
+   A /lab5/backend/index.js
+   A /lab5/backend/models
+   A /lab5/backend/models/GroupMsgSchema.js
+   A /lab5/backend/models/GroupSchema.js
+   A /lab5/backend/models/PrivateMsgSchema.js
+   A /lab5/backend/models/UserSchema.js
+   M /lab5/backend/package-lock.json
+   M /lab5/backend/package.json
+
+Lab5 : Added database design and committing progress so far 
+------------------------------------------------------------------------
+r200 | shray | 2021-11-22 22:03:58 +0530 (Mon, 22 Nov 2021) | 1 line
+Changed paths:
+   A /lab5/backend/package-lock.json
+   A /lab5/backend/package.json
+
+Lab5 : Starting with backend
+------------------------------------------------------------------------
+r199 | shray | 2021-11-22 21:51:55 +0530 (Mon, 22 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/frontend/chatapp/src/App.js
+   M /lab5/frontend/chatapp/src/components/ChatList.js
+   M /lab5/frontend/chatapp/src/components/ChatMsgsListBox.js
+   M /lab5/frontend/chatapp/src/components/SendMessageForm.js
+   M /lab5/frontend/chatapp/src/components/SingleChatListItem.js
+
+Lab5 : Removing erros and committing progress
+------------------------------------------------------------------------
+r198 | shray | 2021-11-22 21:03:08 +0530 (Mon, 22 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/frontend/chatapp/package-lock.json
+   M /lab5/frontend/chatapp/package.json
+   M /lab5/frontend/chatapp/src/App.js
+   M /lab5/frontend/chatapp/src/components/Chat.js
+   M /lab5/frontend/chatapp/src/components/ChatList.js
+   A /lab5/frontend/chatapp/src/components/ChatMsgsListBox.js
+   A /lab5/frontend/chatapp/src/components/Chatbox.js
+   M /lab5/frontend/chatapp/src/components/Login.js
+   A /lab5/frontend/chatapp/src/components/SendMessageForm.js
+   M /lab5/frontend/chatapp/src/components/SingleChatListItem.js
+
+Lab5 : Committing progress made in UI so far 
+------------------------------------------------------------------------
+r197 | shray | 2021-11-22 16:34:05 +0530 (Mon, 22 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/frontend/chatapp/src/App.js
+   M /lab5/frontend/chatapp/src/components/Chat.js
+   A /lab5/frontend/chatapp/src/components/ChatList.js
+   A /lab5/frontend/chatapp/src/components/SingleChatListItem.js
+   A /lab5/frontend/chatapp/src/components/chat.css
+
+Lab5 : Adding chatlist and committing progress made so far
+------------------------------------------------------------------------
+r196 | shray | 2021-11-22 15:29:42 +0530 (Mon, 22 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/frontend/chatapp/src/App.js
+   M /lab5/frontend/chatapp/src/components/Login.js
+   A /lab5/frontend/chatapp/src/components/login.css
+
+Lab5 : Added basic login frontent
+------------------------------------------------------------------------
+r195 | shray | 2021-11-22 14:36:00 +0530 (Mon, 22 Nov 2021) | 1 line
+Changed paths:
+   M /lab5/frontend/chatapp/package-lock.json
+   M /lab5/frontend/chatapp/package.json
+   M /lab5/frontend/chatapp/src/App.js
+   A /lab5/frontend/chatapp/src/components
+   A /lab5/frontend/chatapp/src/components/Chat.js
+   A /lab5/frontend/chatapp/src/components/Login.js
+
+Lab5 : Added routes in frontend
+------------------------------------------------------------------------
+r194 | shray | 2021-11-22 13:54:11 +0530 (Mon, 22 Nov 2021) | 1 line
+Changed paths:
+   A /lab5/frontend/chatapp/package-lock.json
+   A /lab5/frontend/chatapp/package.json
+   A /lab5/frontend/chatapp/public
+   A /lab5/frontend/chatapp/public/favicon.ico
+   A /lab5/frontend/chatapp/public/index.html
+   A /lab5/frontend/chatapp/public/logo192.png
+   A /lab5/frontend/chatapp/public/logo512.png
+   A /lab5/frontend/chatapp/public/manifest.json
+   A /lab5/frontend/chatapp/public/robots.txt
+   A /lab5/frontend/chatapp/src
+   A /lab5/frontend/chatapp/src/App.js
+   A /lab5/frontend/chatapp/src/index.css
+   A /lab5/frontend/chatapp/src/index.js
+   A /lab5/frontend/chatapp/src/reportWebVitals.js
+
+Lab5 : Added basic running react app
+------------------------------------------------------------------------
+r193 | shray | 2021-11-22 13:52:53 +0530 (Mon, 22 Nov 2021) | 1 line
+Changed paths:
+   A /lab5/frontend/chatapp
+
+Lab5 : Added chatapp folder
+------------------------------------------------------------------------
+r192 | shray | 2021-11-22 13:50:44 +0530 (Mon, 22 Nov 2021) | 1 line
+Changed paths:
+   A /lab5/frontend
+
+Lab5 : Added frontend folder
+------------------------------------------------------------------------
+r191 | shray | 2021-11-22 13:50:23 +0530 (Mon, 22 Nov 2021) | 1 line
+Changed paths:
+   A /lab5/backend
+
+Lab5 : Added backend folder
+------------------------------------------------------------------------
+r190 | shray | 2021-11-22 13:48:48 +0530 (Mon, 22 Nov 2021) | 1 line
+Changed paths:
+   D /lab5/package.json
+
+Lab5 : Removed package.json
+------------------------------------------------------------------------
+r189 | shray | 2021-11-20 10:45:31 +0530 (Sat, 20 Nov 2021) | 1 line
+Changed paths:
+   A /lab5/package.json
+
+Lab5 : Added package.json 
+------------------------------------------------------------------------
+r188 | shray | 2021-11-18 23:19:15 +0530 (Thu, 18 Nov 2021) | 1 line
+Changed paths:
+   A /lab5
+
+Lab5 : Started Lab5 assignment
+------------------------------------------------------------------------
